@@ -4,7 +4,7 @@ Handwritten Digits Recognition model
 ## Project description 
 
 In the digital age, digit recognition plays a pivotal role in diverse applications, from postal services and educational settings to digital security.
-This project is focused on Handwritten Digit Recognition using a Convolutional Neural Network (CNN) with K-Fold Cross Validation.
+This project is focused on Handwritten Digit Recognition using a Convolutional Neural Network (CNN) with Cross Validation.
 
 
 
